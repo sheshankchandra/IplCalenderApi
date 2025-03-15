@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IplCalenderApi", "IplCalenderApi\IplCalenderApi.csproj", "{B7F0DAF3-A0F0-4454-B2E3-900B1FB241BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F0DAF3-A0F0-4454-B2E3-900B1FB241BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F0DAF3-A0F0-4454-B2E3-900B1FB241BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F0DAF3-A0F0-4454-B2E3-900B1FB241BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F0DAF3-A0F0-4454-B2E3-900B1FB241BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AC90E1-A785-4ABE-B785-F57868A17B8E}
+	EndGlobalSection
+EndGlobal

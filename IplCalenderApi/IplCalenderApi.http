@@ -1,0 +1,6 @@
+@IplCalenderApi_HostAddress = http://localhost:5190
+
+GET {{IplCalenderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

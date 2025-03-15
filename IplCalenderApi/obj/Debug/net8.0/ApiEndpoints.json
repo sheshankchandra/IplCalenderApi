@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "IplCalenderApi.Controllers.MatchController",
+    "Method": "GetMatches",
+    "RelativePath": "api/Match",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teams",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "day",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "weekend",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "venue",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "format",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
