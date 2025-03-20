@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_gp.ics'))">
+      <SourceType>Package</SourceType>
+      <SourceId>IplCalenderApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IplCalenderApi</BasePath>
+      <RelativePath>f1-calendar_gp.ics</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zwu8y7qzyz</Fingerprint>
+      <Integrity>fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_gp.ics'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics'))">
+      <SourceType>Package</SourceType>
+      <SourceId>IplCalenderApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IplCalenderApi</BasePath>
+      <RelativePath>f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0pynn0w657</Fingerprint>
+      <Integrity>nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IPL2025_Schedule.ics'))">
+      <SourceType>Package</SourceType>
+      <SourceId>IplCalenderApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/IplCalenderApi</BasePath>
+      <RelativePath>IPL2025_Schedule.ics</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>396bz4rek4</Fingerprint>
+      <Integrity>Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IPL2025_Schedule.ics'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

@@ -1,12 +1,331 @@
 {
   "Version": 1,
-  "Hash": "0PqRZk5AsogiiqZKsM7a6UZxaFFYHTrwa0UKTiMXDhM=",
+  "Hash": "dj/LEd3WOx5k+LfiJklp1y/nPfLZazGThy6VEDG5BGg=",
   "Source": "IplCalenderApi",
   "BasePath": "_content/IplCalenderApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "IplCalenderApi\\wwwroot",
+      "Source": "IplCalenderApi",
+      "ContentRoot": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\",
+      "BasePath": "_content/IplCalenderApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_gp.ics",
+      "SourceId": "IplCalenderApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\",
+      "BasePath": "_content/IplCalenderApi",
+      "RelativePath": "f1-calendar_gp#[.{fingerprint}]?.ics",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zwu8y7qzyz",
+      "Integrity": "fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\f1-calendar_gp.ics"
+    },
+    {
+      "Identity": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "SourceId": "IplCalenderApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\",
+      "BasePath": "_content/IplCalenderApi",
+      "RelativePath": "f1-calendar_p1_p2_p3_qualifying_sprint_gp#[.{fingerprint}]?.ics",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0pynn0w657",
+      "Integrity": "nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics"
+    },
+    {
+      "Identity": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\IPL2025_Schedule.ics",
+      "SourceId": "IplCalenderApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\",
+      "BasePath": "_content/IplCalenderApi",
+      "RelativePath": "IPL2025_Schedule#[.{fingerprint}]?.ics",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "396bz4rek4",
+      "Integrity": "Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IPL2025_Schedule.ics"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "f1-calendar_gp.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_gp.zwu8y7qzyz.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zwu8y7qzyz"
+        },
+        {
+          "Name": "label",
+          "Value": "f1-calendar_gp.ics"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.0pynn0w657.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pynn0w657"
+        },
+        {
+          "Name": "label",
+          "Value": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="
+        }
+      ]
+    },
+    {
+      "Route": "IPL2025_Schedule.396bz4rek4.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\IPL2025_Schedule.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "396bz4rek4"
+        },
+        {
+          "Name": "label",
+          "Value": "IPL2025_Schedule.ics"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="
+        }
+      ]
+    },
+    {
+      "Route": "IPL2025_Schedule.ics",
+      "AssetFile": "C:\\Dev\\IplCalenderApi\\IplCalenderApi\\wwwroot\\IPL2025_Schedule.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="
+        }
+      ]
+    }
+  ]
 }

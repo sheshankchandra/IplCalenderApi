@@ -1,5 +1,252 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "IPL2025_Schedule.396bz4rek4.ics",
+      "AssetFile": "IPL2025_Schedule.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:58:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "396bz4rek4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="
+        },
+        {
+          "Name": "label",
+          "Value": "IPL2025_Schedule.ics"
+        }
+      ]
+    },
+    {
+      "Route": "IPL2025_Schedule.ics",
+      "AssetFile": "IPL2025_Schedule.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:58:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z7elV+EVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_gp.ics",
+      "AssetFile": "f1-calendar_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:57:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_gp.zwu8y7qzyz.ics",
+      "AssetFile": "f1-calendar_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 02:57:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zwu8y7qzyz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="
+        },
+        {
+          "Name": "label",
+          "Value": "f1-calendar_gp.ics"
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.0pynn0w657.ics",
+      "AssetFile": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:28:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pynn0w657"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="
+        },
+        {
+          "Name": "label",
+          "Value": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics"
+        }
+      ]
+    },
+    {
+      "Route": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "AssetFile": "f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/calendar"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 10:28:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="
+        }
+      ]
+    }
+  ]
 }

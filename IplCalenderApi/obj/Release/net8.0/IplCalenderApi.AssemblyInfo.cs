@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IplCalenderApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac57111783a0dd12304373715508a3ae61892e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("IplCalenderApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IplCalenderApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

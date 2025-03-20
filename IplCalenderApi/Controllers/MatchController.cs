@@ -79,17 +79,24 @@ namespace IplCalenderApi.Controllers
                 var sb = new StringBuilder();
                 sb.AppendLine("BEGIN:VCALENDAR");
                 sb.AppendLine("VERSION:2.0");
-                sb.AppendLine("PRODID:-//IPL Schedule//EN");
+                sb.AppendLine("CALSCALE:GREGORIAN");
+                sb.AppendLine("PRODID:https://github.com/sheshankchandra/IplCalenderApi");
+                sb.AppendLine("METHOD:PUBLISH");
+                sb.AppendLine("X-PUBLISHED-TTL:PT1H");
 
                 foreach (var match in filteredMatches)
                 {
                     sb.AppendLine("BEGIN:VEVENT");
                     sb.AppendLine($"UID:{match.MatchId}@iplcalendar.com");
+                    sb.AppendLine($"SUMMARY:{match.HomeTeam} vs {match.AwayTeam}");
                     sb.AppendLine($"DTSTAMP:{match.MatchDateTime:yyyyMMddTHHmmssZ}");
                     sb.AppendLine($"DTSTART:{match.MatchDateTime:yyyyMMddTHHmmssZ}");
-                    sb.AppendLine($"SUMMARY:{match.HomeTeam} vs {match.AwayTeam}");
+                    sb.AppendLine($"DTEND:{match.MatchDateTime.AddHours(3):yyyyMMddTHHmmssZ}");
+                    sb.AppendLine("SEQUENCE:2025");
                     sb.AppendLine($"LOCATION:{match.Location}");
-                    sb.AppendLine($"DESCRIPTION:IPL 2025 - {match.HomeTeam} vs {match.AwayTeam} at {match.Location}");
+                    sb.AppendLine($"DESCRIPTION:{match.HomeTeam}'s Home match");
+                    sb.AppendLine("STATUS:CONFIRMED");
+                    sb.AppendLine("CATEGORIES:League Match,F1");
                     sb.AppendLine("END:VEVENT");
                 }
 

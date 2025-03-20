@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/f1-calendar_gp.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_gp.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7188"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 02:57:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/f1-calendar_gp.zwu8y7qzyz.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_gp.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zwu8y7qzyz"},{"Name":"integrity","Value":"sha256-fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64="},{"Name":"label","Value":"_content/IplCalenderApi/f1-calendar_gp.ics"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7188"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022fXM/mbJhjPDf9JF5jp1e3/apTvSUrCJ46pY4Cy2JW64=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 02:57:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/f1-calendar_p1_p2_p3_qualifying_sprint_gp.0pynn0w657.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0pynn0w657"},{"Name":"integrity","Value":"sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="},{"Name":"label","Value":"_content/IplCalenderApi/f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34992"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 10:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\f1-calendar_p1_p2_p3_qualifying_sprint_gp.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34992"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022nPl4v0ZB2jOZbCXLLgniniKeP1EL5JtpOh3VFeCO/0g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 10:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/IPL2025_Schedule.396bz4rek4.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IPL2025_Schedule.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"396bz4rek4"},{"Name":"integrity","Value":"sha256-Z7elV\u002BEVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="},{"Name":"label","Value":"_content/IplCalenderApi/IPL2025_Schedule.ics"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25792"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022Z7elV\u002BEVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 10:58:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IplCalenderApi/IPL2025_Schedule.ics">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IPL2025_Schedule.ics'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z7elV\u002BEVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25792"},{"Name":"Content-Type","Value":"text/calendar"},{"Name":"ETag","Value":"\u0022Z7elV\u002BEVH1g8TaZkJckEK5F20aI9LIJSIoxbHt3eVf0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 10:58:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
